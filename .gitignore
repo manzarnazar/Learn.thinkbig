@@ -1,0 +1,7 @@
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+uploads/install.sql
