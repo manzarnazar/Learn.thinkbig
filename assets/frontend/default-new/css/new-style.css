@@ -412,7 +412,7 @@ font-family: 'Secular One', sans-serif; */
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #ff58aa;
+    background: #BADA55;
   }
   .header-right .user {
     width: 1.875rem;
@@ -431,7 +431,7 @@ font-family: 'Secular One', sans-serif; */
     font-size: 15px;
     font-weight: 500;
     line-height: 20px;
-    color: #ff58aa;
+    color: #BADA55;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -751,7 +751,7 @@ font-family: 'Secular One', sans-serif; */
     font-size: 14px;
     font-weight: 600;
     line-height: 19px;
-    color: #ff58aa;
+    color: #BADA55;
     letter-spacing: 0.145em;
     padding-bottom: 6px;
   }
@@ -820,7 +820,7 @@ font-family: 'Secular One', sans-serif; */
     font-size: 15px;
     font-weight: 400;
     line-height: 26px;
-    color: #ff58aa;
+    color: #BADA55;
   }
   .blog-item-5 .date {
     font-family: 'Fraunces', serif;
@@ -1102,7 +1102,7 @@ font-family: 'Secular One', sans-serif; */
     width: 28px;
     height: 1px;
     border-radius: 20px;
-    background-color: #ff58aa;
+    background-color: #BADA55;
   }
   .instructor-item .content .info {
     font-size: 14px;
@@ -1375,7 +1375,7 @@ font-family: 'Secular One', sans-serif; */
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #ff58aa;
+    background: #BADA55;
   }
   .course-item-one .content .view-play .item .info {
     font-size: 14px;
@@ -1421,7 +1421,7 @@ font-family: 'Secular One', sans-serif; */
     }
   }
   .about-info .item {
-    --icon-color: #ff58aa;
+    --icon-color: #BADA55;
     flex: 0 0 145px;
   }
   .about-info .item .title {
@@ -1546,7 +1546,7 @@ font-family: 'Secular One', sans-serif; */
     padding-bottom: 12px;
   }
   .banner-content .title .color-1 {
-    color: #ff58aa;
+    color: #BADA55;
   }
   .banner-content .title .size-1 {
     position: relative;

@@ -157,7 +157,7 @@
     font-weight: 400;
 }
  .pagenation .active, .page-item.active .page-link{
-    background-color: #754FFE;
+    background-color: #BADA55;
     color: #fff;
     box-shadow: 0px 7px 18px -8px #754ffe;
 }
@@ -1052,13 +1052,13 @@
 
 
 .btn-fill {
-    border: 1px solid #754FFE !important;
+    border: 1px solid #BADA55 !important;
     transition: .5s;
     padding: 12px 30px;
 }
 
 .btn-fill:hover{
-    background: #754FFE;
+    background: #BADA55;
     color: #fff;
 }
 .einsBtn .btn{
@@ -1070,14 +1070,14 @@
     object-fit: cover;
 }
 .follow-btn {
-	border: 1px solid #754FFE !important;
+	border: 1px solid #BADA55 !important;
 	font-size: 13px;
 	padding: 8px 30px;
 	transition: .5s;
 	font-weight: 500;
 }
 .follow-btn:hover{
-    background-color: #754FFE ;
+    background-color: #BADA55 ;
     color: #fff;
 }
 
