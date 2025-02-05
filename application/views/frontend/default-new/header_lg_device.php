@@ -23,7 +23,7 @@
       <ul class="navbar-nav main-nav-wrap mb-2 mb-lg-0 align-items-center">
         <li class="nav-item">
           <a class="nav-link header-dropdown px-3 text-nowrap" href="#" id="navbarDropdown1">
-            <img loading="lazy" src="<?php echo site_url('assets/frontend/default-new/') ?>image/menu.png" alt="Menu" />
+            <!-- <img loading="lazy" src="<?php echo site_url('assets/frontend/default-new/') ?>image/menu.png" alt="Menu" /> -->
             <span class="ms-2"><?php echo get_phrase('Courses'); ?></span>
           </a>
           <ul class="navbarHover">
