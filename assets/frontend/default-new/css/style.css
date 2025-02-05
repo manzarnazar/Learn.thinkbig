@@ -430,7 +430,7 @@ p{
 .menubar .right-menubar .menu_number{
   position: absolute;
   color: #fff;
-  background-color: #F25C88;
+  background-color: #BADA55;
   border-radius: 50%;
   margin-bottom: 0;
   top: -3px;
@@ -1732,7 +1732,7 @@ p{
     
 }
 .courses-card .courses-card-body .courses-card-image .courses-card-image-text h3{
-    color: #F25C88;
+    color: #BADA55;
 }
 .courses-card .courses-card-body .courses-card-image .courses-card-image-text{
     position: absolute;
@@ -4355,7 +4355,7 @@ Sign Up Page
 .message .conversation .conversation-1 .conversation-img p{
   position: absolute;
   color: #fff;
-  background-color: #F25C88;
+  background-color: #BADA55;
   border-radius: 50%;
   padding: 1px 5px;
   font-size: 8px;
@@ -6077,7 +6077,7 @@ Course play page
 .course-play-right .review-icon ul li a{
   text-decoration: none;
   background-color: #f25c8932;
-  color: #F25C88;
+  color: #BADA55;
   padding: 5px 17px;
   border-radius: 5px;
   margin-left: 20px;
@@ -7927,7 +7927,7 @@ Privacy Policy
 }
 .ebook-item-one{
   --bg-ebook:#F9CDDA;
-  --color-ebook:#F25C88;
+  --color-ebook:#BADA55;
   position: relative;
   padding: 20px;
   background-color: #fff;
