@@ -168,7 +168,7 @@ $invoices = $this->db->where('package_id', $selected_team['id'])
 
     .nav-link.active path,
     .nav-link:hover path {
-        fill: #754FFE
+        fill: #BADA55
     }
 
     .nav-link {
@@ -177,7 +177,7 @@ $invoices = $this->db->where('package_id', $selected_team['id'])
 
     .invoice-btn {
         border-radius: 4px;
-        background: #754FFE;
+        background: #BADA55;
         color: #fff;
         padding: 4px 12px;
     }

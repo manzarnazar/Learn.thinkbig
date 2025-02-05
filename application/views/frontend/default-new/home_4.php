@@ -285,7 +285,7 @@
       </div>
       <div class="col-lg-4">
         <div class="about-info">
-          <div class="item" style="--icon-color: #ff58aa">
+          <div class="item" style="--icon-color: #BADA55">
             <h4 class="title"><?php echo nice_number($all_students->num_rows()); ?><span>+</span></h4>
             <p class="info"><?php echo get_phrase('Happy Student') ?></p>
           </div>

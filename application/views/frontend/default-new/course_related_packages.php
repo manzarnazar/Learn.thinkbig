@@ -116,7 +116,7 @@ $related_packages = $CI->team_package_model->course_related_packages($course_id)
         }
 
         .courses-card-body:hover .courses-text h5 {
-            color: #754FFE !important;
+            color: #BADA55 !important;
         }
 
         .ellipsis {
@@ -134,7 +134,7 @@ $related_packages = $CI->team_package_model->course_related_packages($course_id)
 
 
         .buy-package {
-            background-color: #754FFE;
+            background-color: #BADA55;
             color: #fff;
             text-decoration: none;
             border-radius: 5px;
