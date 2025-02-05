@@ -405,7 +405,7 @@ p{
     align-items: center;
 }
 .header-dropdown{
-    background-color: var(--color-12);
+    background-color: #000;
     border-radius: 5px;
     padding: 7px 5px;
 }
