@@ -4,7 +4,10 @@
 
 
 *{
-  font-family: 'Fraunces', serif;
+  font-family: 'Fraunces', serif !important;
+  letter-spacing: -0.08em !important;
+  word-spacing: 3px !important;
+
 }
 
 /* font-family: 'Mulish', sans-serif;
@@ -95,7 +98,7 @@ font-family: 'Secular One', sans-serif; */
   }
   
   .fz_15_m_24 {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 500;
     line-height: 24px;
   }
@@ -757,7 +760,7 @@ font-family: 'Secular One', sans-serif; */
   }
   .title-one .title {
     font-family: "Fraunces", sans-serif;
-    font-size: 31px;
+    font-size: 42px;
     font-weight: 600;
     line-height: 42px;
     color: #0f101a;
@@ -1539,9 +1542,9 @@ font-family: 'Secular One', sans-serif; */
   }
   .banner-content .title {
     font-family: "Fraunces", sans-serif;
-    font-size: 52px;
+    font-size: 70px;
     font-weight: 700;
-    line-height: 64px;
+    line-height: 68px;
     color: #0f101a;
     padding-bottom: 12px;
   }
