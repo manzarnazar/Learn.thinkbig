@@ -1537,7 +1537,7 @@ font-family: 'Secular One', sans-serif; */
     position: relative;
     padding-top: 93px;
     padding-bottom: 50px;
-    max-width: 585px;
+    /* max-width: 585px; */
     margin: 0 auto;
   }
   .banner-content .title {
