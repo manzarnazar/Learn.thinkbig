@@ -280,7 +280,7 @@ a{
   display: inline-block;
 }
 p{
-    font-size: 22px;
+    font-size: 22px !important;
     font-weight: 400;
 }
 .pt-60{
@@ -2223,7 +2223,7 @@ p{
   .footer a {
    color: var(--color-8);
    padding: 6px 0px;
-   font-size: 14px;
+   font-size: 20px;
   }
   .footer h1{
     color: var(--color-9);
@@ -2241,7 +2241,7 @@ p{
   .footer p{
     color: var(--color-8);
     padding: 20px 0px;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 400;
     letter-spacing: 1.1px;
     line-height: 1.7;

@@ -6,7 +6,7 @@
 *{
   font-family: 'Fraunces', serif !important;
   letter-spacing: -0.08em !important;
-  word-spacing: 3px !important;
+  word-spacing: 2px !important;
 
 }
 
@@ -24,7 +24,7 @@ font-family: 'Secular One', sans-serif; */
   }
   
   .pt-40 {
-    padding-top: 40px;
+    padding-top: 40px; 
   }
   
   .pt-110 {
