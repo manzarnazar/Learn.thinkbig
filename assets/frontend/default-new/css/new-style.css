@@ -1542,8 +1542,8 @@ font-family: 'Secular One', sans-serif; */
   }
   .banner-content .title {
     font-family: "Fraunces", sans-serif;
-    font-size: 70px;
-    font-weight: 700;
+    font-size: 12em;
+    font-weight: 600;
     line-height: 68px;
     color: #0f101a;
     padding-bottom: 12px;
